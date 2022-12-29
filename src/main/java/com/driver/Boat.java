@@ -14,6 +14,7 @@ public class Boat implements WaterVehicle {
 	public int getVehicleCapacity() {
 		// TODO Auto-generated method stub
 		return capacity;
+		
 	}
 
 	public Boat(String name, int capacity) {
